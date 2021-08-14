@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../black.png</file>
+        <file>../white.png</file>
+        <file>../damka_white.png</file>
+        <file>../damka.png</file>
+    </qresource>
+</RCC>
